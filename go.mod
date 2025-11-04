@@ -1,3 +1,3 @@
-module github.com/example/ocr_server
+module github.com/peakied/ocr_server
 
 go 1.20

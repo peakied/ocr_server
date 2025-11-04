@@ -4,7 +4,7 @@ import (
     "log"
     "net/http"
 
-    "github.com/example/ocr_server/pkg/api"
+    "github.com/peakied/ocr_server/pkg/api"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
     "log"
     "net/http"
 
-    "github.com/example/ocr_server/internal/ocr"
+    "github.com/peakied/ocr_server/internal/ocr"
 )
 
 type ocrRequest struct {
