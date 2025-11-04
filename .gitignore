@@ -1,0 +1,11 @@
+bin/
+vendor/
+.vscode/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.log
+_tmp/
+*.png
